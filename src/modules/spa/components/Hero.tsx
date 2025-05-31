@@ -27,7 +27,7 @@ export const Hero = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen overflow-hidden bg-white">
+    <div className="relative min-h-screen overflow-hidden bg-white pt-5 pb-10">
       {/* Fondo con gradientes dinámicos */}
       <div 
         className="absolute inset-0 opacity-60"
